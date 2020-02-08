@@ -25,8 +25,7 @@ Number 5 Done
 
 Number 6a
 
-![6a](https://user-images.githubusercontent.com/59035856/74086271-d1f02880-4ab3-11ea-8ed9-ecc01453dd81.PNG)
-
+![6a](https://user-images.githubusercontent.com/59035856/74086919-23031b00-4aba-11ea-95e9-63d72f023d00.PNG)
 
 
 Number 6b
