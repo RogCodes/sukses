@@ -32,3 +32,5 @@ Number 6b
 ![6b](https://user-images.githubusercontent.com/59035856/74086933-4c23ab80-4aba-11ea-919a-0873eb5367d2.PNG)
 
 Number 6c
+
+![6c](https://user-images.githubusercontent.com/59035856/74087403-7bd4b280-4abe-11ea-847c-962c0a6a40b3.PNG)
