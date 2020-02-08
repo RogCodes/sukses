@@ -24,6 +24,7 @@ Number 5 Done
 
 
 Number 6a
+
 ![6a](https://user-images.githubusercontent.com/59035856/74086271-d1f02880-4ab3-11ea-8ed9-ecc01453dd81.PNG)
 
 
