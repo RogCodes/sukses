@@ -27,8 +27,8 @@ Number 6a
 
 ![6a](https://user-images.githubusercontent.com/59035856/74086919-23031b00-4aba-11ea-95e9-63d72f023d00.PNG)
 
-
 Number 6b
 
+![6b](https://user-images.githubusercontent.com/59035856/74086933-4c23ab80-4aba-11ea-919a-0873eb5367d2.PNG)
 
 Number 6c
