@@ -7,20 +7,20 @@ XAMPP
 Chrome Browser
 I'm using PHP, Start your XAMPP and run through your browser.
 
-Number 1
+Number 1 (PHP)
 JSON (JavaScript Object Notation) adalah sebuah format yang digunakan untuk pertukaran data antar aplikasi. JSON dibuat berdasarkan format Object pada javascript. 
 
 
-Number 2 Done
+Number 2 (PHP) Done
 
 
-Number 3 Done
+Number 3 (C) Done
 
 
-Number 4 Done
+Number 4 (C++) Done
 
 
-Number 5 Done
+Number 5 (PHP) Done
 
 
 Number 6a
