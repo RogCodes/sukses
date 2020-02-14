@@ -1,5 +1,5 @@
-# Arkademy
-This is Repository for Arkademy Bootcamp Batch 15 - 2.
+# Bismilah Sukses
+This is Repository for Arkademy Bootcamp Batch 15 
 
 Tools : 
 Ms. Visual Code
